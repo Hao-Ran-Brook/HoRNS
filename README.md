@@ -1,7 +1,7 @@
 # HoRNS - Hawking Radiation of Nonrelativistic Scalars: applications to pion and axion production
 ## Authors: Hao-Ran Cui, Yuhsin Tsai, Tao Xu
 
-The code file "HoRNS.nb" is written by Mathematica 13.1 and associated with arxiv: 2407.01675. It provides the numerical simulation of the following functions for Hawking radiation of massive scalars from a primordial black hole: 
+The code file "HoRNS.nb" is written by Mathematica 13.1 and associated with [arxiv: 2407.01675](https://arxiv.org/abs/2407.01675). It provides the numerical simulation of the following functions for Hawking radiation of massive scalars from a primordial black hole: 
 
 1. The production rate of a massive scalar (based on Eq. (2.1) of the paper):
 
@@ -15,3 +15,5 @@ $$\large{\sigma=\frac{\pi}{\omega^2-m^2}\sum_{l=1}^{\infty}(2l+1)|T_{\omega l}|^
 
 where $m$ is the scalar's mass, $l$ is angular momentum quantum number, $|T_{\omega l}|$ is transition rate for the scalar of energy $\omega$ and angular momentum $l$ to reach infinity. 
 
+#### Credits: 
+If you use "HoRNS.nb" in your research please cite [arxiv: 2407.01675.](https://arxiv.org/abs/2407.01675)
